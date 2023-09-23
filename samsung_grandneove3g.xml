@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="grandneove3g" 
-            fetch="https://github.com/grandneove3g"
+            fetch="https://github.com/arminask"
             revision="cm-14.1" />
 
 <project path="device/samsung/grandneove3g" name="android_device_grandneove3g" revision="cm-14.1" remote="grandneove3g"/>
