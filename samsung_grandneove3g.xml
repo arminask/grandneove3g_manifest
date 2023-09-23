@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="grandneove3g" 
+            fetch="https://github.com/grandneove3g"
+            revision="cm-14.1" />
+
+<project path="device/samsung/grandneove3g" name="android_device_grandneove3g" revision="cm-14.1" remote="grandneove3g"/>
+
+<project path="vendor/samsung/grandneove3g" name="android_vendor_grandneove3g" revision="cm-14.1" remote="grandneove3g"/>
+
+<project path="kernel/samsung/grandneove3g" name="android_kernel_grandneove3g" revision="cm-14.1" remote="grandneove3g"/>
+
+<project path="device/samsung/scx35-common" name="android_device_scx35-common" revision="cm-14.1" remote="grandneove3g"/>
+
+<project path="hardware/samsung/sprd" name="android_hardware_sprd" revision="cm-14.1" remote="grandneove3g"/>
+
+<project path="device/samsung/sprd-common" name="android_device_samsung_sprd-common" revision="cm-14.1" remote="grandneove3g"/>
+
+<project path="vendor/samsung/scx30g2-common" name="android_vendor_scx30g2-common" revision="master" remote="grandneove3g"/>
+</manifest>
